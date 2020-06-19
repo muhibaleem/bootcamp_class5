@@ -12,6 +12,7 @@ function Parent() {
         <Child/>
 
         <br />
+        <br />
         <hr />
         
         <SecondChild />
